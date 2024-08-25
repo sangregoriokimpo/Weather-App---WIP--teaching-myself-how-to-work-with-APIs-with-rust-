@@ -3,7 +3,7 @@ use std::io;
 use serde::Deserialize;
 use colored::*;
 use reqwest::Response;
-
+//small app to teach myself how to work with APIs
 //Struct that deserializes JSON response from  openWeatherMapAPI
 #[derive(Deserialize,Debug)]
 struct WeatherResponse{

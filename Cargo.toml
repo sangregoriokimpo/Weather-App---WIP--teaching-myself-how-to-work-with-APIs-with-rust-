@@ -1,3 +1,5 @@
+#small app to teach myself how to work with APIs
+
 [package]
 name = "weatherprototype1"
 version = "0.1.0"
